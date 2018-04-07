@@ -10,4 +10,4 @@ This python code extracts and analyzes a excel csv file whcih contains the data 
      - Pandas
 
 ### Installation:
-    Install Pycharm.Use the [Community Edition](https://www.jetbrains.com/pycharm/download/#section=windows) since its free, lightweight       and more than enough to serve our purpose.
+    Install Pycharm.Use the [Community Edition] (https://www.jetbrains.com/pycharm/download/#section=windows) since its free, lightweight     and more than enough to serve our purpose.
